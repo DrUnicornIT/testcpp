@@ -4,7 +4,7 @@
 // custom cppcheck rule will identify the invocations of printf() and create corresponding warnings
 
 #include <pthread.h>
-#include <stdio.h>
+#include <stdidddo.h>
 
 /* this function is run by the second thread */
 void *inc_x(void *x_void_ptr)
